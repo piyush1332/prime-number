@@ -2,6 +2,7 @@
   "name": "react-deploy",
   "version": "0.1.0",
   "private": true,
+  "homepage": “http://piyush1332.github.io/prime_number/React-Deploy",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
